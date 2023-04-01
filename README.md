@@ -9,8 +9,9 @@ I'm a passionate and curious dev with a love for gaming and tech.
 
 - 🔭 I’m currently looking for work
 - 🌱 I’m learning Docker and AWS
-- 👨🏻‍💻 You can see the stuf i have done [here]()
-- 💬 Fell free to offer feed back on any of my projects or ask me me about anything
+- 👨🏻‍💻 You can see the stuf i have done [here](https://github.com/Luciano-Rangel-Aguiar?tab=repositories)
+- 💬 Feel free to contact me to offer feedback on any of my projects or ask me about anything
+- 📫 You can alway cantact me throuh here or my [LinkedIn](https://www.linkedin.com/in/luciano-aguiar-developer/)
 - ⚡ Fun fact: I love d&d, videogames and anything fantasy related
  
 ### Languages and Tools:
