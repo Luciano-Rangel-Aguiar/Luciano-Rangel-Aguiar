@@ -1,5 +1,5 @@
 
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/Luciano-Rangel-Aguiar/Luciano-Ragel-Aguiar/blob/main/README.pt-br.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/Luciano-Rangel-Aguiar/Luciano-Rangel-Aguiar/blob/main/README.pt-br.md)
 
 ## :wave: Hi there! My name is Luciano Aguiar.
 
