@@ -1,4 +1,3 @@
-
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/Luciano-Rangel-Aguiar/Luciano-Rangel-Aguiar/blob/main/README.pt-br.md)
 
 ## 👋 Hi there! My name is Luciano Aguiar.
@@ -8,13 +7,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Luciano-Rangel-Aguiar&theme=transparent&card_width=500" alt=" Luciano`s GitHub stats" align="right"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-Rangel-Aguiar&layout=compact&theme=transparent&card_width=500" alt=" Luciano`s GitHub Top Languges" align="right"/>
 
-I am a gaming and tech enthusiast who has discovered my calling in coding, I'm excited to share my skills and experience with you.
+I am a gaming and tech enthusiast who has discovered my calling in coding. I'm excited to share my skills and experience with you.
 
-I have recently undergone an intensive 1200-hour coding program at [Driven Education](https://www.driven.com.br/), which has provided me with expertise in a wide range of web technologies, software engineering fundamentals, and databases.  
+I have recently undergone an intensive 1200-hour coding program at [Driven Education](https://www.driven.com.br/), which has provided me with expertise in multiple web technologies, software engineering fundamentals, and databases.  
 
-My goal is to use my coding skills to make a positive impact in the world and help others.
+My goal is to improve my coding skills so that I may effect positive change in the world and help those in need.
 
-I'm always up for a challenge and eager to work on exciting projects. Let's collaborate and create something amazing!
+I'm always up for a challenge and eager to work on exciting projects. Let's collaborate and create something phenomenal!
 
 <br/>
  
@@ -23,7 +22,7 @@ I'm always up for a challenge and eager to work on exciting projects. Let's coll
 - 🔭 I'm currently looking for work
 - 🌱 I'm learning Docker and AWS
 - 👨🏻‍💻 You can see all my projects [here](https://github.com/Luciano-Rangel-Aguiar?tab=repositories)
-- 🧠 I'm currently working on a personal planning web application focused on helping me manege my ADHD.
+- 🧠 I'm currently developing a web app to help me manage my ADHD.
 - 💬 Feel free to contact me to offer feedback on any of my projects or ask me anything
 - 📫 You can always message me here or on my [LinkedIn](https://www.linkedin.com/in/luciano-aguiar-developer/)
 - ⚡ Fun fact: I love TTRPGs (mostly D&D 5e and Pathfinder 2e), videogames, and anything fantasy-related
