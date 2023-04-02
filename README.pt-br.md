@@ -7,7 +7,7 @@
 
 Sou um entusiasta de jogos e tecnologia que descobriu sua vocação na programação. Estou animado para compartilhar minhas habilidades e experiências.
 
-Eu recentemente conclui um programa intensivo de 1200 horas em programação na [Driven Education](https://www.driven.com.br/), que me proporcionou expertise em:
+Eu recentemente conclui um programa intensivo de 1200 horas em programação na [Driven Education](https://www.driven.com.br/), que me proporcionou experiência em:
 
 - Fundamentos de engenharia de software
 - Múltiplas tecnologias web
@@ -15,7 +15,7 @@ Eu recentemente conclui um programa intensivo de 1200 horas em programação na 
 - Princípios de DevOps
 - Testes unitários, de integração e ponta a ponta
 - Habilidades comportamentais
-- Metodologias ágeis (SCRUM).
+- Metodologias ágeis (SCRUM)
 
 Meu objetivo é melhorar minhas habilidades de programação para poder causar mudanças positivas no mundo e ajudar quem precisa.
 
@@ -28,10 +28,10 @@ Eu prospero trabalhando em equipe, estou sempre pronto para um desafio e estou a
 - 🔭 Atualmente, estou procurando trabalho
 - 🌱 Estou aprendendo Docker e AWS
 - 👨🏻‍💻 Você pode ver todos os meus projetos [aqui](https://github.com/Luciano-Rangel-Aguiar?tab=repositories)
-- 🧠 Atualmente, estou desenvolvendo um aplicativo web para me ajudar a gerenciar meu TDAH.
+- 🧠 Atualmente, estou desenvolvendo um aplicativo web para me ajudar a gerenciar meu TDAH
 - 💬 Sinta-se à vontade para entrar em contato comigo para dar feedback sobre qualquer um dos meus projetos ou me perguntar qualquer coisa
 - 📫 Você sempre pode me enviar uma mensagem aqui ou no meu [LinkedIn](https://www.linkedin.com/in/luciano-aguiar-developer/)
-- ⚡ Curiosidade: Eu amo RPGs de mesa (principalmente D&D 5e e Pathfinder 2e), videogames e tudo relacionado a fantasia.
+- ⚡ Curiosidade: Eu amo RPGs de mesa (principalmente D&D 5e e Pathfinder 2e), videogames e tudo relacionado a fantasia
 
 <br/>
   
