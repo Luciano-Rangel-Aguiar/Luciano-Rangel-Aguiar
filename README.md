@@ -7,7 +7,7 @@
 
 I am a gaming and tech enthusiast who has discovered my calling in coding. I'm excited to share my skills and experience with you.
 
-I have recently undergone an intensive 1200-hour coding program at [Driven Education](https://www.driven.com.br/), which has provided me with experience in:
+I have recently undergone an intensive 1200 hour coding program at [Driven Education](https://www.driven.com.br/), which has provided me with experience in:
 
 - Software engineering fundamentals
 - Multiple web technologies
