@@ -2,8 +2,8 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Olá! Meu nome é Luciano Aguiar.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Luciano-Rangel-Aguiar&theme=transparent&locale=pt-br&card_width=500" alt="Estatísticas do GitHub de Luciano" align="right"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-Rangel-Aguiar&layout=compact&theme=transparent&locale=pt-br&card_width=500" alt="Principais linguagens do GitHub de Luciano" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Luciano-Rangel-Aguiar&theme=transparent&locale=pt-br&hide=contribs&show_icons=true&hide_border=true&card_width=500" alt="Estatísticas do GitHub de Luciano" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-Rangel-Aguiar&layout=compact&theme=transparent&locale=pt-br&hide_border=true&card_width=500" alt="Principais linguagens do GitHub de Luciano" align="right"/>
 
 Sou um entusiasta de jogos e tecnologia que descobriu sua vocação na programação. Estou animado para compartilhar minhas habilidades e experiências.
 
