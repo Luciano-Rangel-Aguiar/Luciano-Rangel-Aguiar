@@ -2,8 +2,8 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Hi there! My name is Luciano Aguiar.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Luciano-Rangel-Aguiar&theme=transparent&card_width=500" alt=" Luciano`s GitHub stats" align="right"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-Rangel-Aguiar&layout=compact&theme=transparent&card_width=500" alt=" Luciano`s GitHub Top Languges" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Luciano-Rangel-Aguiar&theme=transparent&hide=contribs&show_icons=true&hide_border=true&card_width=500" alt=" Luciano`s GitHub stats" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-Rangel-Aguiar&layout=compact&theme=transparent&hide_border=true&card_width=500" alt=" Luciano`s GitHub Top Languges" align="right"/>
 
 I am a gaming and tech enthusiast who has discovered my calling in coding. I'm excited to share my skills and experience with you.
 
@@ -16,8 +16,6 @@ I have recently undergone an intensive 1200 hour coding program at [Driven Educa
 - Unit, integration, and end-to-end testing
 - Behavioral skills
 - Agile methodologies (SCRUM)
-
-<br/>
 
 My goal is to improve my coding skills so that I may effect positive change in the world and help those in need.
 
