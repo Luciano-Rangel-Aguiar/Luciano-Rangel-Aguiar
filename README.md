@@ -17,6 +17,8 @@ I have recently undergone an intensive 1200 hour coding program at [Driven Educa
 - Behavioral skills
 - Agile methodologies (SCRUM)
 
+<br/>
+
 My goal is to improve my coding skills so that I may effect positive change in the world and help those in need.
 
 I thrive working in a team environment, am always up for a challenge, and am eager to work on exciting projects. Let's collaborate and create something phenomenal!
